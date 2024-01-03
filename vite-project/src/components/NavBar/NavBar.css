@@ -1,0 +1,8 @@
+nav {
+  background-color: rgba(31, 32, 35, 0.7);
+  backdrop-filter: blur(24px);
+  transition: background-color 0.2s ease;
+}
+nav button {
+  background-color: #248aff;
+}
